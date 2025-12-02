@@ -11,7 +11,7 @@ import SwiftUI
 struct BasicValidationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
